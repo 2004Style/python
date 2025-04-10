@@ -1,0 +1,11 @@
+;Producto;Precio;Cantidad_Vendida;Costo_de_Produccion;ganancia_por_unidad;ganancia_total
+1;Producto A;10;150;5;5;750
+2;Producto B;15;100;7;8;800
+3;Producto C;8;200;4;4;800
+4;Producto D;25;80;12;13;1040
+5;Producto E;12;90;6;6;540
+6;Producto F;20;120;10;10;1200
+7;Producto G;5;300;2;3;900
+8;Producto H;30;60;15;15;900
+9;Producto I;40;50;20;20;1000
+10;Producto J;7;180;3;4;720
